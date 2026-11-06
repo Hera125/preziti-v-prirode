@@ -31,7 +31,7 @@ print("Jsem připraven!")
 ```
 
 ## Obrázek
-![Příroda](images/priroda.jpg)
+![Příroda](pr.jpg)
 
 ## Odkazy
 - [Horská služba](https://www.horskasluzba.cz/)
