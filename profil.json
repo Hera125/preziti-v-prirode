@@ -1,0 +1,15 @@
+{
+  "jmeno": "Bohumil Hera",
+  "vek": 16,
+  "je_plnolety": false,
+  "poznamka": null,
+  "adresa": {
+    "mesto": "Praha",
+    "ulice": "Hlavni 25"
+  },
+  "konicky": [
+    "fotbal",
+    "počítačové hry",
+    "hudba"
+  ]
+}
