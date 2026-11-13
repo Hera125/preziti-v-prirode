@@ -2,7 +2,7 @@
   "jmeno": "Bohumil Hera",
   "vek": 16,
   "je_plnolety": false,
-  "poznamka": null,
+  "poznamka": "Rad sportuji",
   "adresa": {
     "mesto": "Praha",
     "ulice": "Hlavni 25"
@@ -11,5 +11,6 @@
     "fotbal",
     "počítačové hry",
     "hudba"
-  ]
+  ],
+  "oblibene_cislo": 7
 }
